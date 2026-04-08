@@ -62,11 +62,13 @@ The dataset contains sales information including:
 ## 📂 Repository Structure
 
 dataset/
-sales_dataset.csv
+Sales target.csv/
+Order Details.csv/
+List of Orders.csv
 
 dashboard/
-sales_dashboard_page_1.png
-sales_dashboard_page_2.png
+sales_dashboard_page_1.png/
+sales_dashboard_page_2.png/
 sales_dashboard_page_3.png
 
 powerbi_file/
